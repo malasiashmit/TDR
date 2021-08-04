@@ -1,3 +1,4 @@
 # cecilian-dazzle
-Website-Continuation-2k21
-Copyright by Ashmit
+Website-Dualstatusbar
+Copyright 2021 
+By-Ashmit Malasi
