@@ -446,7 +446,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h2 {
   color: #fff;
-  margin-bottom: 32px;
+  margin-bottom: 33px;
   font-size: 52px;
   font-weight: 700;
 }
@@ -455,9 +455,9 @@ h1, h2, h3, h4, h5, h6 {
   width: 80%;
   -webkit-animation-delay: 0.4s;
   animation-delay: 0.4s;
-  margin: 0 auto 30px auto;
+  margin: 0 auto 29px auto;
   color: #fff;
-  font-size: 21px;
+  font-size: 20px;
 }
 
 #hero .carousel-control-prev, #hero .carousel-control-next {
